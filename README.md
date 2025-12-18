@@ -1,6 +1,8 @@
 # Smart Government Service Center Network
 Cisco Packet Tracer Network Design and Configuration
 
+![alt text](image.png)
+
 ## Overview
 This project implements a complete enterprise-style network using Cisco Packet Tracer.  
 The scenario represents a Smart Government Service Center where multiple departments operate under a secure and scalable network infrastructure.
